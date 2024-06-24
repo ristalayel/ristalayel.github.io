@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ristalayel.github.io/sitemap
+Sitemap: https://ristalayel.github.io/app/sitemap
+Sitemap: https://ristalayel.github.io/assets/sitemap
+Sitemap: https://ristalayel.github.io/css/sitemap
+Sitemap: https://ristalayel.github.io/includes/sitemap
+Sitemap: https://ristalayel.github.io/item/sitemap
+Sitemap: https://ristalayel.github.io/src/sitemap
